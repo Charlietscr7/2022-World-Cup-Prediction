@@ -1,0 +1,9 @@
+home,away,home_team_fifa_rank,away_team_fifa_rank,home_team_mean_defense_score,home_team_mean_offense_score,home_team_mean_midfield_score,away_team_mean_defense_score,away_team_mean_offense_score,away_team_mean_midfield_score,importance
+Netherlands,Wales,8,19,83.0,82.0,82.0,77.0,78.0,76.0,1
+Argentina,Denmark,3,10,82.0,86.0,84.0,80.0,77.0,83.0,1
+France,Mexico,4,13,82.0,86.0,82.0,77,79,77,1
+England,Senegal,5,18,83,86,83,77.0,79.0,76.0,1
+Spain,Croatia,7,12,83,83,85,78,80,83,1
+Brazil,Uruguay,1,14,83,85,85,79,81,82,1
+Belgium,Germany,2,11,79,84,81,82,84,85,1
+Portugal,Serbia,9,21,84,83,83,75,80,80,1
